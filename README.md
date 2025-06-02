@@ -1,1 +1,0 @@
-# SHOT_DATASET
